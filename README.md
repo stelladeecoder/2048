@@ -1,5 +1,5 @@
 # Black History 2048 (Limited Edition)
-My Black History Version of 2048 [click here](https://stellladeecoder.github.io/2048/) to play.
+My Black History Version of 2048 [click here](https://stelladeecoder.github.io/2048/) to play.
 
 # Make 2048
 A Udacity version of Gabriele Cirulli's [original 2048](http://gabrielecirulli.github.io/2048/). 
